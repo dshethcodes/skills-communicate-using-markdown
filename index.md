@@ -1,3 +1,1 @@
-# 
-
-Added a pound symbol to the index
+# Added a pound symbol to the index
